@@ -1,0 +1,12 @@
+Introduction:
+The game is all about the car chase. The name of the game is “Chase the theft”. In this game only one player can play who act as a police. It is basically the game where the police have to pull down the theft by chasing or shooting the car. In the game, there player should get through different stage and in total there are 2 different level and game ending is calculated with the highscore.
+
+Basic overview:
+The story of the game is chasing the car using different strategy that will help to catch the theft. The game has 2 level of difficulty. In the game the player can upgrade the car buy earnings the coin through the points from the game. The player can unlock different car after beating their own highscore.  If you lose the game your point will be deduct by ½ from your total point. The point is earn by the speed of the car, used strategy and time to catch the thief. The game is target to the children above 5 years old where the game doesn’t have more violence and hamper to the mentality of the children. The high score of the game finalize the player’s performance and give them reward as per their gameplay.
+
+Gameplay elements:
+There are different things running in the game such as car, coins, roads, trees, stone on the road etc. there are 5 main keys to control the game. Those key are right key to turn right, left key to turn left back key to apply brakes and space key for boost. There may come different obstacles in the game where the player must handle the car and speed. There will be the escape mode in the game where theft will escape from the police catch zone area and player lose the game. And to win the game player must catch the theft and for better point player should catch the theft as less time as they can. 
+
+Gameplay mockups:
+This is how my game looks like as my design but there may be some changes in the real game why may increase the reality in the game and makes it feel like playing.
+
